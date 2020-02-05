@@ -1,5 +1,5 @@
 # Irma
-raw data and statistical analysis scripts for quantifying coral fragmentation in the Lower Florida Keys resulting from Hurricane Irma
+raw data and statistical analysis scripts for NSF RAPID: Collaborative Research: Dynamics of storm-mediated asexual reproduction in Florida Keys corals post-Hurricane Irma
 
 Files in this repository 
 -----------
